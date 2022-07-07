@@ -7,7 +7,7 @@ img{
     max-width:350px;
 }
 .nav{
-    background-color: #064138;
+    background-color: blue;
     display: flex;
     justify-content: space-between;
     align-items: center;
